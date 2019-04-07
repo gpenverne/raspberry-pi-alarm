@@ -16,3 +16,6 @@ $ make install
 ```bash
 $ make start
 ```
+
+## More...
+Learn more about this repo on [gkdv.net](https://gkdv.net/Raspberry-pi-alarm/)
